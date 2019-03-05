@@ -1,2 +1,3 @@
-# copier
+# copy
+
 Copy a character
